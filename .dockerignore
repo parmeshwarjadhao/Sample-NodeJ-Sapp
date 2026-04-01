@@ -1,0 +1,5 @@
+node_modules
+.git
+Dockerfile
+k8s
+README.md
